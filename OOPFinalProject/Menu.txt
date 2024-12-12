@@ -1,0 +1,13 @@
+1700.0
+Pork
+15
+Fish
+20
+Veggie
+1
+Gold
+1000.0
+RIce
+10.0
+Fruit
+5.0
